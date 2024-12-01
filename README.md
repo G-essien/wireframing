@@ -33,3 +33,57 @@ Functionality focuses on interactive components like forms, buttons, and dropdow
 
 ### How These Elements Contribute to Design  
 Each element of a wireframe plays a critical role in building a user-friendly and efficient design. Together, they provide a holistic view of the user interface and ensure the application meets both user needs and business goals.  
+
+## Low-Fidelity vs. High-Fidelity Wireframes  
+
+Wireframes are essential in the design process, and they can vary in detail and complexity depending on the project stage. Below are the differences between low-fidelity and high-fidelity wireframes:  
+
+### Low-Fidelity Wireframes  
+- **Definition:** Simple, rough sketches or outlines focusing on layout and structure without intricate design details.  
+- **Purpose:** Used in the early stages of design to brainstorm ideas, map out user flows, and get stakeholder feedback.  
+- **Features:**  
+  - Minimal details, typically black-and-white.  
+  - No styling or branding elements.  
+  - Limited focus on actual content or interaction details.  
+- **Tools:** Hand-drawn sketches, or basic tools like Balsamiq.  
+- **When to Use:**  
+  - During brainstorming sessions to communicate initial ideas.  
+  - For quick iterations and validating concepts with stakeholders.  
+
+### High-Fidelity Wireframes  
+- **Definition:** Detailed and realistic representations of the final product, including design elements, content, and interactions.  
+- **Purpose:** Used in later stages of the design process to refine the interface, gather precise feedback, and prepare for development.  
+- **Features:**  
+  - Incorporates actual colors, typography, and branding.  
+  - Includes interactive elements like buttons and dropdowns.  
+  - Mimics the final look and functionality of the application.  
+- **Tools:** Figma, Adobe XD, Sketch.  
+- **When to Use:**  
+  - After low-fidelity wireframes are approved.  
+  - When presenting to clients or for user testing.  
+
+---
+
+## High-Fidelity Wireframes  
+
+### What Are High-Fidelity Wireframes?  
+High-fidelity wireframes are detailed and polished designs that closely resemble the final product. They include real content, design styles, and interactive elements, offering an in-depth view of the application.  
+
+### Characteristics of High-Fidelity Wireframes  
+1. **Detailed Visual Design**: Includes fonts, colors, images, and branding.  
+2. **Interactivity**: Simulates user actions with clickable elements.  
+3. **Accurate Content Representation**: Uses actual or closely approximated text and data.  
+
+### Benefits of High-Fidelity Wireframes  
+- **Improved Communication:** Clearly conveys the design vision to stakeholders and development teams.  
+- **Usability Testing:** Allows for testing real-world scenarios and refining based on user feedback.  
+- **Development Ready:** Bridges the gap between design and development by providing precise guidelines.  
+
+### Example in the Booking System  
+In a booking management system:  
+- **Property Listing Page:** Includes real property images, descriptions, prices, and hover effects on cards.  
+- **Checkout Page:** Features actual input fields, dropdowns, and payment gateway integration.  
+
+### When to Use High-Fidelity Wireframes  
+- During the final design phase to align with stakeholders before implementation.  
+- To test user experience with real content and interactions.  
