@@ -87,3 +87,36 @@ In a booking management system:
 ### When to Use High-Fidelity Wireframes  
 - During the final design phase to align with stakeholders before implementation.  
 - To test user experience with real content and interactions.  
+
+## Popular Wireframing Tools  
+
+Wireframing tools are essential for creating both low-fidelity and high-fidelity wireframes. These tools help designers and developers visualize and iterate on designs effectively. Below are some popular wireframing tools:  
+
+- **Balsamiq**: Ideal for creating low-fidelity wireframes with a sketch-like feel. It's user-friendly and great for quick mockups.  
+- **Adobe XD**: A versatile tool for designing and prototyping wireframes and interactive designs.  
+- **Sketch**: Focused on UI and UX design, offering a wide range of features for building wireframes and interactive prototypes.  
+- **Axure RP**: Geared toward complex projects that require advanced prototyping features, such as dynamic panels and logic-driven interactions.  
+- **Figma**: A collaborative, cloud-based design tool that stands out for its ease of use, team collaboration features, and versatility.  
+
+---
+
+### Figma: The Recommended Tool  
+
+#### Overview  
+Figma is a powerful, cloud-based design and prototyping tool widely used for creating wireframes, mockups, and fully interactive prototypes. Its real-time collaboration features make it a favorite among teams working remotely or in hybrid setups.  
+
+#### Key Features  
+- **Cloud-Based Collaboration**: Work on designs simultaneously with your team in real-time, ensuring smooth collaboration.  
+- **Cross-Platform Compatibility**: Accessible from any device with a web browser, including macOS, Windows, and Linux.  
+- **Comprehensive Design Tools**: Supports everything from wireframing to high-fidelity prototyping.  
+- **Plugins and Integrations**: Enhance your workflow with a rich library of plugins, such as for adding icons, images, and other assets.  
+- **Version Control**: Tracks changes automatically, allowing you to revisit earlier versions of your design.  
+- **Prototyping and Feedback**: Link designs to simulate user flows and gather feedback directly on the platform.  
+
+#### Why Figma is Useful for Wireframing  
+- **Efficiency**: Quickly create low-fidelity wireframes and transition to high-fidelity designs without switching tools.  
+- **Collaboration**: Streamlines teamwork with real-time updates and comments.  
+- **Customizability**: Offers templates, components, and styles to maintain consistency across projects.  
+- **Scalability**: Suitable for projects of any size, from small wireframes to large-scale interactive prototypes.  
+
+Figma is particularly advantageous for wireframing complex systems like booking applications, where team collaboration, version control, and seamless design-to-development handoff are critical.  
